@@ -4,9 +4,8 @@ September 14th, 2016
 
 *Speech Buddy*
 
-Sanjay Jerad 
-*Computer Engineering Technology Student*  
-gnadnivek.github.io
+Sanjay Jerad *Computer Engineering Technology Student*  
+Sanjay4966.github.io
 
 **Executive Summary**
 
@@ -23,9 +22,9 @@ application proposal. I will be collaborating with the following
 company/department, *I will not be collaborating with any companies at this
 moment*. In the winter semester I plan to form a group with the following
 students, who are also building similar hardware this term and working on the
-mobile application with me *Kevin Dang, and William Anderson*. The hardware
-will be completed in CENG 317 Hardware Production Techniques independently and
-the application will be completed in CENG 319 Software Project. These will be
+mobile application with me *Kevin Dang, and William Anderson*. The hardware will
+be completed in CENG 317 Hardware Production Techniques independently and the
+application will be completed in CENG 319 Software Project. These will be
 integrated together in the subsequent term in CENG 355 Computer Systems Project
 as a member of a 2 or 3 student group.
 
